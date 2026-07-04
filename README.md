@@ -10,23 +10,41 @@ Implemented the K-Means Clustering algorithm and used Within-Cluster Sum of Squa
 Key Skills & Technologies
 
 • Python
+
 • Machine Learning
+
 • Unsupervised Learning
+
 • Customer Segmentation
+
 • K-Means Clustering
+
 • WCSS (Within-Cluster Sum of Squares)
+
 • Elbow Method
+
 • Exploratory Data Analysis (EDA)
+
 • Data Cleaning
+
 • Data Preprocessing
+
 • Data Visualization
+
 • Business Analytics
+
 • NumPy
+
 • Pandas
+
 • Matplotlib
+
 • Seaborn
+
 • Scikit-learn
+
 • Google Colab
+
 • Git & GitHub
 
 This project strengthened my practical understanding of unsupervised machine learning, clustering techniques, customer behavior analysis, WCSS-based cluster optimization, and transforming data into actionable business insights for data-driven decision-making.
